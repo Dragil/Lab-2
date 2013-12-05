@@ -1,9 +1,0 @@
-C:\Users\Илья\Documents\visual studio 2012\Projects\L2\L2\bin\Debug\L2.exe.config
-C:\Users\Илья\Documents\visual studio 2012\Projects\L2\L2\bin\Debug\L2.exe
-C:\Users\Илья\Documents\visual studio 2012\Projects\L2\L2\bin\Debug\L2.pdb
-C:\Users\Илья\Documents\visual studio 2012\Projects\L2\L2\obj\Debug\L2.csprojResolveAssemblyReference.cache
-C:\Users\Илья\Documents\visual studio 2012\Projects\L2\L2\obj\Debug\L2.Form1.resources
-C:\Users\Илья\Documents\visual studio 2012\Projects\L2\L2\obj\Debug\L2.Properties.Resources.resources
-C:\Users\Илья\Documents\visual studio 2012\Projects\L2\L2\obj\Debug\L2.csproj.GenerateResource.Cache
-C:\Users\Илья\Documents\visual studio 2012\Projects\L2\L2\obj\Debug\L2.exe
-C:\Users\Илья\Documents\visual studio 2012\Projects\L2\L2\obj\Debug\L2.pdb
